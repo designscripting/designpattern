@@ -9,7 +9,7 @@ Command pattern have three components: Receiver, Command, Invoker
 
 Command normally specifies a sender-receiver connection with a subclass
 
-Comand pattern is used in Order(Cart), Queue, Undo, Editor, - When we need to have multiple commands executed on source(Receiver) via some handle(Invoker)
+Command pattern is used in Order(Cart), Queue, Undo, Editor, - When we need to have multiple commands executed on source(Receiver) via some handle(Invoker)
 */
 import java.io.*;
 import java.util.*;
