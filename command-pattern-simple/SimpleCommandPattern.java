@@ -88,3 +88,9 @@ public class SimpleCommandPattern {
     }
 }
 
+/*
+Undo functionality:
+Each Command Object should have state to maintain history, that should be undoable 
+https://matt.berther.io/2004/09/16/using-the-command-pattern-for-undo-functionality/
+http://msdl.cs.mcgill.ca/people/hv/teaching/SoftwareDesign/COMP304B2009/lectures/lecture.command/lecture.command.pdf
+*/
