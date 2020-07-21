@@ -4,13 +4,14 @@ Design-pattern-samples
 
 Patterns:  
 -----------  
-Observer  
+Observer - Mediator looks similar
 Builder  
 Factory  
 AbstractFactory  
 ChainOfResponsibility  
-Command  
+Command - Momento looks similar 
 Mediator  
+
   
 Added Files:  
 ------------  
